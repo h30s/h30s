@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himanshu Soni</h1>
-<h3 align="center">👨‍💻BTech Computer Science Student | Aspiring C++ Developer | Exploring DSA & Blockchain | Building the Future by Writing Code 🤖</h3>
 
 - 🌱 I’m currently learning **C++ DSA and Blockchain Soon**
 
