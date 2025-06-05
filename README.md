@@ -1,8 +1,9 @@
 <p align="center"><a href="https://github.com/user-attachments/assets/4128776f-1a63-48ab-92e1-b02b94c0e37f"><img width="80%" alt="Hello, I'm Himanshu. I do open source!" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" /></a></p>
 
 
-# 👨‍💻 Himanshu Soni ;
-Hi there! 👋  
+
+# 👨‍💻 Coding in progress... glad you're here!
+ 
 I'm **Himanshu Soni**, a passionate first-year B.Tech Computer Science student at **KIET Group of Institutions**.
 
 - 👨‍💻 MERN Stack Developer  
