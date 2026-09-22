@@ -5,7 +5,7 @@
       I build things, break things, and figure out why they broke.
     </td>
     <td align="right">
-      <a href="https://himansusoni.vercel.app">Portfolio</a> ·
+      <a href="https://himanshusoni.vercel.app">Portfolio</a> ·
       <a href="https://linkedin.com/in/h30s">LinkedIn</a> ·
       <a href="https://x.com/SoniH30s">X</a>
     </td>
