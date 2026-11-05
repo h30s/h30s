@@ -1,4 +1,3 @@
-<img src="https://himanshusoni.vercel.app/b.gif" alt="Animated banner of a developer working at night" width="100%" />
 
 
 ### I build things, break things, and figure out why they broke. Open to software engineering internships and new-grad roles.
